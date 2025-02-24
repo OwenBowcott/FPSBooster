@@ -1,0 +1,6 @@
+{
+    "user_defined_blacklist": [
+        "gamingservices.exe",
+        "gamingservicesnet.exe"
+    ]
+}
